@@ -5,4 +5,5 @@ Hi,I'm Eunice Aluse
 .I’m currently learning how to make a business website
 .I'm learnig javascript
 .I’m looking to collaborate on making website with different learners 
+.I'm learning ui|ux design
 .You can reach me at aluseeunice@gmail.com
